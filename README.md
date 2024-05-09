@@ -1,6 +1,7 @@
 # BIOMAT
 
 Modelo de Interacción Micorrícica
+###
 Este repositorio contiene un modelo computacional diseñado para simular y estudiar las interacciones energéticas entre plantas, hongos micorrízicos arbusculares y vástagos en un ecosistema. Basado en el modelo de Ising, una técnica ampliamente utilizada en física estadística, este modelo explora cómo las configuraciones de interacciones entre estos organismos afectan la energía total del sistema y, por ende, su estabilidad y funcionamiento.
 
 Propósito del Modelo
