@@ -1,1 +1,33 @@
-
+{
+  "name": "Biomat Token",
+  "symbol": "BIOM",
+  "description": "Biomat Token es el token oficial del proyecto Biomat.",
+  "image": "https://raw.githubusercontent.com/metamatematico/BIOMAT/main/docs/biomatlogo.jpg",
+  "seller_fee_basis_points": 500,
+  "external_url": "", 
+  "attributes": [
+    {
+      "trait_type": "Proyecto",
+      "value": "Biomat"
+    }
+  ],
+  "collection": {
+    "name": "Colección Biomat",
+    "family": "Biomat Family"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/metamatematico/BIOMAT/main/docs/biomatlogo.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9bDt7JXFLerL5grNoaPmcttVxfbBY1pHCGKJDp6uLaej", 
+        "share": 100
+      }
+    ]
+  }
+}
